@@ -1,6 +1,10 @@
 Introduction
 
 In this project, we will create a game where the user has to guess the names of different Indian states. For every correct guess, the user will be awarded a point. The game will continue until the user decides to quit.
+
+![Screenshot (9)](https://user-images.githubusercontent.com/87391223/230473071-2d14fc73-22f1-4253-9fef-80eeb814c621.png)
+
+
 Requirements
 
 To run this project, you will need:
