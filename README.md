@@ -11,19 +11,16 @@ Project Structure
 
 The project will consist of a single Python file:
 
-    india_state_guessing_game.py: The Python file which will contain the game code
+    main.py: The Python file which will contain the game code
+    scoreboard.py: The Python class file which will contain the behaviour of a scoreboard
 
 Steps
 
     Import the necessary libraries:
 
-    arduino
-
-import random
-import pandas as pd
+    import turtle
+    import pandas 
 
 Load the CSV file containing the names of all the Indian states and their respective capitals into a pandas dataframe:
 
-kotlin
-
-data = pd.read_csv('states.csv')
+    data = pd.read_csv('states.csv')
